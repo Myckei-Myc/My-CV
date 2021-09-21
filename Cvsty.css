@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+}
+.left img {
+  border-radius: 70%;
+}
+.left {
+  background-color: lightgrey;
+}
+.right {
+  background-color: tan;
+}
+.Box-1 {
+  border: 3px solid black;
+  height: 40px;
+  background-color: crimson;
+}
+H1 {
+  color: brown;
+  font-variant-caps: all-small-caps;
+  text-decoration: underline;
+}
+body {
+  font-family: system-ui;
+}
+h2 {
+  text-align: left;
+}
